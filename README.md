@@ -1,5 +1,5 @@
 ![logo](https://github.com/TheReacher4013/TheReacher/blob/main/72a79e63-52ff-4436-bbb5-98ee84992f6c.jpeg)
-<h1 align="center">Hi 👋, I'm Rushikesh JOshi</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
 
