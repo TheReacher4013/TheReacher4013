@@ -1,4 +1,4 @@
-![logo](https://github.com/TheReacher4013/TheReacher4013/blob/main/pexels-pixabay-531767.jpg)
+![logo](https://github.com/TheReacher4013/TheReacher4013/blob/main/web-development-landing-page-people-260nw-1838445880.webp)
 <h1 align="center">Hi 👋, I'm Rushikesh Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
