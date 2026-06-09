@@ -1,19 +1,46 @@
-![logo](https://github.com/TheReacher4013/TheReacher4013/blob/main/web-development-landing-page-people-260nw-1838445880.webp)
-<h1 align="center">Hi 👋, I'm Rushikesh Joshi</h1>
-<h3 align="center">A passionate FUll-Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thereacher4013&label=Profile%20views&color=0e75b6&style=flat" alt="thereacher4013" /> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rushikesh+Joshi;Full-Stack+MERN+Developer;Open+to+Work+%F0%9F%9A%80)
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+[![Profile Views](https://komarev.com/ghpvc/?username=thereacher4013&label=Profile+Views&color=00d4aa&style=flat)](https://github.com/TheReacher4013)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-brightgreen)
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-blueviolet)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thereacher4013&show_icons=true&locale=en&layout=compact" alt="thereacher4013" /></p>
+### 🙋‍♂️ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thereacher4013&" alt="thereacher4013" /></p>
+- 🎓 M.Sc. CS — Dr. D.Y. Patil College, Pune (2025)
+- 💼 ~9 months exp at **Felix IT Systems** & **Bizzfly**
+- 🏗️ Built **NetVault** (multi-tenant SaaS, 4-role RBAC, Socket.io real-time) & **B2B Bakery Platform** (Razorpay, 6-stage order lifecycle)
+- 🌱 Currently learning: **TypeScript · Redis · System Design**
+- 💬 Ask me about: **React, Node.js, MongoDB, JWT, AWS S3**
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thereacher4013&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=thereacher4013&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thereacher4013&theme=tokyonight&hide_border=true" />
+</div>
